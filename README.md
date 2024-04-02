@@ -1,3 +1,3 @@
 # fokir
 fokir portfolio not responsive
-(images/Screenshot 2024-04-02 105817.png)
+(https://github.com/NAFADYY/fokir/blob/main/images/Screenshot%202024-04-02%20105817.png?raw=true)
